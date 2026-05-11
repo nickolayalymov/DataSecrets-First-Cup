@@ -1,0 +1,11 @@
+data/*.csv
+data/*.zip
+data/*.7z
+
+!data/samples/
+
+.venv/
+venv/
+__pycache__/
+.ipynb_checkpoints/
+.idea/
