@@ -1,5 +1,9 @@
 # 🍕 Dodo Pizza: Promo Response Prediction
 
+<p align="center">
+  <img src="./docs/img/project_demo.gif" alt="Project Demo" width="800">
+</p>
+
 <p align="left">
   <img src="https://img.shields.io/badge/ML-Classification-blue.svg" alt="ML">
   <img src="https://img.shields.io/badge/Python-3.10-green.svg" alt="Python">
