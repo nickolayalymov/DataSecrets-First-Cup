@@ -1,7 +1,7 @@
 # 🍕 Dodo Pizza: Promo Response Prediction
 
 <p align="center">
-  <img src="./docs/img/project_demo.gif" alt="Project Demo" width="800">
+  <img src="./docs/img/project_demo.gif" alt="Project Demo" width="900">
 </p>
 
 <p align="left">
