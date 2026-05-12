@@ -65,4 +65,3 @@ Full datasets are excluded due to licensing restrictions. Data schema and sample
 
 ---
 *Developed by <a href="https://github.com/nickalymov" target="_blank">Nick Alymov</a>*
-```
